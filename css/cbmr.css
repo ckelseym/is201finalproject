@@ -1,0 +1,40 @@
+.header{
+    background-color: rgb(200, 239, 252);
+    color:white;
+    height: 80px;
+    line-height: 80px;
+    font-size: large;
+}
+
+.body{
+    background-color: whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+iframe{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    background-color: rgb(200, 239, 252);
+    height: 25px;
+    line-height: 25px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.common{
+    text-align: center;
+}
